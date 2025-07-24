@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89647eea-42bc-4b6c-b0c7-a19033fe0dd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreationalDesignPattern/.idea/Design-Patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreationalDesignPattern/src/main/java/org/krithika/FactoryPattern/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreationalDesignPattern/src/main/java/org/krithika/FactoryPattern/BikeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreationalDesignPattern/src/main/java/org/krithika/FactoryPattern/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreationalDesignPattern/src/main/java/org/krithika/FactoryPattern/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreationalDesignPattern/src/main/java/org/krithika/FactoryPattern/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreationalDesignPattern/src/main/java/org/krithika/FactoryPattern/FactoryPatternService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreationalDesignPattern/src/main/java/org/krithika/FactoryPattern/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreationalDesignPattern/src/main/java/org/krithika/FactoryPattern/TransportFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

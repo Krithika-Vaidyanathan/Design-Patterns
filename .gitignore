@@ -1,0 +1,11 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Build output folders
+out/
+target/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
