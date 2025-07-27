@@ -1,6 +1,8 @@
 package org.krithika.FactoryPattern;
 
-//Client code
+//Client code - loosely coupled to concrete classes (Car, Bike).
+//Adding new transport does not require modification in the client code.
+//Transport type can be passed at run time.
 public class Client {
     private Transport transport;
 
